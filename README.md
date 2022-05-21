@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AseelAtia
 - 👀 I’m interested in Web development And QA-Automation Testing Services 
-- 🌱 I’m currently learning JavaScript,TypeScript,Node js And Django
-- 💞️ I’m looking to connect with software Developers
-- 📫reach me on:
+- 😎😎 I’m currently learning JavaScript,TypeScript,Node js And Django
+- 🤝🏻🤝🏻 I’m looking to connect with software Developers
+- 😊reach me on:
 - aseel.a.s.atia@gmail.com
 - https://www.linkedin.com/in/aseel-atia-130625153/
 
